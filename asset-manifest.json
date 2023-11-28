@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Chatapp/static/css/main.088c9130.css",
+    "main.js": "/React_Chatapp/static/js/main.8849b3f8.js",
+    "static/js/787.24e4eeb6.chunk.js": "/React_Chatapp/static/js/787.24e4eeb6.chunk.js",
+    "static/media/Aleem+Business+Headshot+for+LinkedIn+Profile.jpg": "/React_Chatapp/static/media/Aleem+Business+Headshot+for+LinkedIn+Profile.fa56ef9d9ca1e36f1cda.jpg",
+    "static/media/Hidden Face DP For Girls (1).jpg": "/React_Chatapp/static/media/Hidden Face DP For Girls (1).759843dfc75512b7fab1.jpg",
+    "static/media/Ellipse 4.png": "/React_Chatapp/static/media/Ellipse 4.abc72fb6893a1a5455b3.png",
+    "static/media/Ellipse 6.png": "/React_Chatapp/static/media/Ellipse 6.966d4095e9331c5a9eec.png",
+    "static/media/new-chat-3-763857.webp": "/React_Chatapp/static/media/new-chat-3-763857.1503b22b13f3a6ee8f60.webp",
+    "static/media/sendimage.png": "/React_Chatapp/static/media/sendimage.fdf657c554637e280f63.fdf657c554637e280f63.png",
+    "static/media/logo.svg": "/React_Chatapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_Chatapp/index.html",
+    "main.088c9130.css.map": "/React_Chatapp/static/css/main.088c9130.css.map",
+    "main.8849b3f8.js.map": "/React_Chatapp/static/js/main.8849b3f8.js.map",
+    "787.24e4eeb6.chunk.js.map": "/React_Chatapp/static/js/787.24e4eeb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088c9130.css",
+    "static/js/main.8849b3f8.js"
+  ]
+}
